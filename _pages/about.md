@@ -17,3 +17,9 @@ Awards
 ======
 - 2025-2029: Hong Kong PhD Fellowship Scheme (HKPFS), <span style="color:gray">Research Grants Council, Hong Kong Government</span>
 - 2024: Wadham Graduates Prize, <span style="color:gray">Wadham College, University of Oxford</span>
+
+Contact
+======
+- Email: yitaoxu@link.cuhk.edu.hk
+- Address: Room G22, Lady Shaw Building (LSB), CUHK, Sha Tin, Hong Kong
+- Phone: 3943 3048
