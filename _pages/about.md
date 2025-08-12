@@ -15,5 +15,5 @@ I enjoy connecting with people across disciplines, whether for collaboration or 
 
 Awards
 ======
-- Hong Kong PhD Fellowship Scheme (HKPFS), <span style="color:gray">Research Grants Council, Hong Kong Government</span>
-- Wadham Graduates Prize, <span style="color:gray">Wadham College, University of Oxford</span>
+- 2025-2029: Hong Kong PhD Fellowship Scheme (HKPFS), <span style="color:gray">Research Grants Council, Hong Kong Government</span>
+- 2024: Wadham Graduates Prize, <span style="color:gray">Wadham College, University of Oxford</span>
