@@ -10,6 +10,6 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Statistics, The Chinese University of Hong Kong
+* Ph.D. in Statistics, The Chinese University of Hong Kong
 * M.S. in Statistics, University of Oxford
 * B.S. in Mathematics, Hong Kong University of Science and Technology
