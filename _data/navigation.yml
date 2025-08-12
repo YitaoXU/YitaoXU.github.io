@@ -25,7 +25,10 @@ main:
     
   - title: "CV"
     url: /cv/
-    
+
+  - title: "Reading List"
+    url: /reading_list/
+
   # - title: "CV"
   #   url: /cv-json/
     
