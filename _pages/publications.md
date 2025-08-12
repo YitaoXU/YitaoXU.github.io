@@ -8,7 +8,7 @@ author_profile: true
 
 Biology
 =======
-- **Yitao Xu**, Guanyun Wei, Jingying Zhou, …, and Xiaodan Fan<sup>*</sup>&nbsp;. RoBep: A Region-Oriented Deep Learning Model for B-Cell Epitope Prediction. (2025) *Bioinformatics* in revision
+- **Yitao Xu**, Guanyun Wei, Jingying Zhou, …, and Xiaodan Fan<sup>\*</sup>. RoBep: A Region-Oriented Deep Learning Model for B-Cell Epitope Prediction. (2025) *Bioinformatics* in revision
 
 Astrophysics
 ============
