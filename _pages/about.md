@@ -13,5 +13,5 @@ My current research focuses on applying statistical methods and AI to address pr
 
 Awards
 ======
-- 2025 — Hong Kong PhD Fellowship Scheme (HKPFS)
-- 2024 — Wadham Graduates Prize
+- 2025 Hong Kong PhD Fellowship Scheme (HKPFS)
+- 2024 Wadham Graduates Prize
