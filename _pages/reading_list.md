@@ -2,7 +2,7 @@
 layout: archive
 title: "Reading List"
 permalink: /reading_list/
-author_profile: true
+author_profile: false
 ---
 
 {% include base_path %}
