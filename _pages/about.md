@@ -11,7 +11,7 @@ I truly appreciate your visit to my website! I am Yitao Xu, a PhD candidate in t
 
 My current research focuses on applying statistical methods and AI to address problems in biology and astrophysics, especially in immunology and RNA–binding proteins (RBPs).
 
-I enjoy connecting with people across disciplines — whether for collaboration or any other discussion — so please feel free to reach out.
+I enjoy connecting with people across disciplines, whether for collaboration or any other discussion, so please feel free to reach out.
 
 Awards
 ======
