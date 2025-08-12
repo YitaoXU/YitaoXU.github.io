@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Yitao Xu"
 title_separator          : "-"
 name                     : &name "XU Yitao"
 description              : &description "personal description"
@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "images/profile.png"
+  name             : "Yitao Xu"
+  pronouns         : # example: "he"  
+  bio              : "PhD Student at CUHK"
+  location         : "Hong Kong, China"
+  employer         : "The Chinese University of Hong Kong"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yitaoxu96@Gmail.com" 
 
   # Academic websites
   academia         : # URL
