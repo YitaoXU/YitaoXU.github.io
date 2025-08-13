@@ -8,8 +8,8 @@ author_profile: true
 {% include base_path %}
 
 - **Immunology**
-  - [T Cell epitope]({{ base_path }}/reading_list/immunology/t-cell-epitope/)
-  - [B Cell epitope]({{ base_path }}/reading_list/immunology/b-cell-epitope/)
+  - [T Cell]({{ base_path }}/reading_list/immunology/t-cell/)
+  - [B Cell]({{ base_path }}/reading_list/immunology/b-cell/)
 - **RNA**
   - [RNA Binding Protein]({{ base_path }}/reading_list/rna/rna-binding-protein/)
 - **Deep Learning**
