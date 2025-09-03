@@ -8,7 +8,7 @@ author_profile: true
 Some notes in different disciplines
 
 ## Biology Knowledge
-- [Biology Knowledge Notes]({{ base_path }}/files/Biology_Knowledge_Notes.pdf){:download="Biology_Knowledge_Notes.pdf"}
+- [Biology Knowledge Notes]({{ base_path }}/files/Biology_Knowledge_Notes.pdf){:download="Biology_Knowledge_Notes.pdf"} (Updating ...)
 
 ## Other Notes
 - More notes will be added here...
